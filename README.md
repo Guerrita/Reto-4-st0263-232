@@ -1,8 +1,8 @@
 ﻿# Guía para Configurar Kubernetes con MySQL y WordPress:
  
-## Estudiante(s): nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, Carlos Andres Mosquera.
+### Estudiante(s): nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, Carlos Andres Mosquera.
 
-## Profesor: Edwin Nelson Montoya
+### Profesor: Edwin Nelson Montoya
 
 # Kubernetes con MySQL y WordPress:
 
@@ -64,8 +64,6 @@ Balanceador de Carga: El servicio de WordPress se expone externamente utilizando
 ##Comandos usados de a cuerdo a la guia que dearrollamos:
 
 [https://docs.google.com/document/d/1IzgpjLHFNoqKKWUEz5LVZOwIaq70W4_FY4l8Tedyu4E/edit](https://docs.google.com/document/d/1IzgpjLHFNoqKKWUEz5LVZOwIaq70W4_FY4l8Tedyu4E/edit?usp=sharing)
-
-# 5. otra información que considere relevante para esta actividad.
 
 # referencias:
 
