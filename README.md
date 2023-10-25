@@ -58,6 +58,7 @@ En esta actividad, se ha proporcionado una guía detallada para configurar un en
 - Kubernetes.
 - Docker.
 - KubeCtl.
+- MicroK8s.
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
