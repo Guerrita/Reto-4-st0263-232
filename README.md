@@ -6,8 +6,6 @@ nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, - Carlos Andres Mosque
 
 ### Profesor: Edwin Nelson Montoya
 
-# Kubernetes con MySQL y WordPress:
-
 # 1. breve descripción de la actividad:
 #En esta actividad, se ha proporcionado una guía detallada para configurar un entorno de Kubernetes con dos aplicaciones esenciales: MySQL y WordPress. Los pasos abordados fueron:
 
