@@ -61,7 +61,7 @@ En esta actividad, se ha proporcionado una guía detallada para configurar un en
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
-##Comandos usados de a cuerdo a la guia que dearrollamos:
+Comandos usados de a cuerdo a la guia que dearrollamos:
 
 [https://docs.google.com/document/d/1IzgpjLHFNoqKKWUEz5LVZOwIaq70W4_FY4l8Tedyu4E/edit](https://docs.google.com/document/d/1IzgpjLHFNoqKKWUEz5LVZOwIaq70W4_FY4l8Tedyu4E/edit?usp=sharing)
 
