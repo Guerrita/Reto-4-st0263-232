@@ -4,7 +4,7 @@
 
 nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, - Carlos Andres Mosquera.
 
-### Profesor: Edwin Nelson Montoya
+### Profesor: Edwin Nelson Montoya.
 
 # 1. breve descripción de la actividad:
 En esta actividad, se ha proporcionado una guía detallada para configurar un entorno de Kubernetes con dos aplicaciones esenciales: MySQL y WordPress. Los pasos abordados fueron:
@@ -45,13 +45,13 @@ En esta actividad, se ha proporcionado una guía detallada para configurar un en
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 
-La arquitectura se basa en microservicios y sigue el modelo cliente-servidor:
+- La arquitectura se basa en microservicios y sigue el modelo cliente-servidor:
 
-MySQL: Se despliega como un contenedor que ejecuta un servidor MySQL.
+- MySQL: Se despliega como un contenedor que ejecuta un servidor MySQL.
 
-WordPress: Se despliega como otro contenedor que contiene la aplicación WordPress. Este contenedor se comunica con el servidor MySQL para almacenar y recuperar datos.
+- WordPress: Se despliega como otro contenedor que contiene la aplicación WordPress. Este contenedor se comunica con el servidor MySQL para almacenar y recuperar datos.
 
-Balanceador de Carga: El servicio de WordPress se expone externamente utilizando un balanceador de carga. Para el uso de la IP Externa.
+- Balanceador de Carga: El servicio de WordPress se expone externamente utilizando un balanceador de carga. Para el uso de la IP Externa.
 
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
