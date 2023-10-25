@@ -7,7 +7,7 @@ nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, - Carlos Andres Mosque
 ### Profesor: Edwin Nelson Montoya
 
 # 1. breve descripción de la actividad:
-#En esta actividad, se ha proporcionado una guía detallada para configurar un entorno de Kubernetes con dos aplicaciones esenciales: MySQL y WordPress. Los pasos abordados fueron:
+En esta actividad, se ha proporcionado una guía detallada para configurar un entorno de Kubernetes con dos aplicaciones esenciales: MySQL y WordPress. Los pasos abordados fueron:
 
 - Instalación y configuración de microk8s y kubectl.
 - Creación de un secreto en Kubernetes para la contraseña de root de MySQL.
@@ -16,7 +16,7 @@ nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, - Carlos Andres Mosque
 - Creación de un servicio para MySQL.
 - Despliegue de WordPress en Kubernetes.
 - Creación de un servicio de WordPress con un balanceador de carga.
-- 
+  
 ## 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 
 - Instalación de Software: Configuramos microk8s y kubectl en el sistema para gestionar el clúster de Kubernetes.
