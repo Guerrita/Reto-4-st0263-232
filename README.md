@@ -2,7 +2,7 @@
  
 ### Estudiante(s): 
 
-nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, Carlos Andres Mosquera.
+nombres: - Andres Guerra MOntoya, - Juan Esteban Cardona, - Carlos Andres Mosquera.
 
 ### Profesor: Edwin Nelson Montoya
 
